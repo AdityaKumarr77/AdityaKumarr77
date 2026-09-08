@@ -129,7 +129,7 @@ it’s to engineer systems that grow, adapt, and create impact.
 <img src="https://img.shields.io/badge/Email-ff00ff?style=for-the-badge&logo=gmail&logoColor=black"/>
 </a>
 
-<a href="https://leetcode.com/u/technical-aditya-rathore/">
+<a href="https://leetcode.com/u/AdityaKumar77/">
 <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
