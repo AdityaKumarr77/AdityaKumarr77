@@ -167,9 +167,9 @@ it’s to engineer systems that grow, adapt, and create impact.
 #  GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=technical-aditya-rathore&theme=radical&hide_border=true&bg_color=00000000"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=technical-aditya-rathore&theme=radical&hide_border=true&background=00000000"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=technical-aditya-rathore&theme=radical&hide_border=true&bg_color=00000000&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AdityaKumarr77&theme=radical&hide_border=true&bg_color=00000000"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaKumarr77&theme=radical&hide_border=true&background=00000000"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaKumarr77&theme=radical&hide_border=true&bg_color=00000000&layout=compact"/>
 </p>
 
 <p align="center">
@@ -181,7 +181,7 @@ it’s to engineer systems that grow, adapt, and create impact.
 #  Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=technical-aditya-rathore&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdityaKumarr77&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 <p align="center">
