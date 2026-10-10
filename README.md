@@ -118,7 +118,6 @@ I'm not chasing trends, I'm building capability: **structured problem-solving, c
   <img src="https://raw.githubusercontent.com/AdityaKumarr77/AdityaKumarr77/main/assets/leetcode-stats.svg" alt="Live LeetCode dashboard — AdityaKumar77" width="100%"/>
 </a>
 
-<sub>⚡ Auto-refreshed every 6 hours straight from LeetCode by a GitHub Action.</sub>
 
 <br/><br/>
 
@@ -136,7 +135,7 @@ I'm not chasing trends, I'm building capability: **structured problem-solving, c
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdityaKumarr77/AdityaKumarr77/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AdityaKumarr77/AdityaKumarr77/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: light)" https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark">
   <img alt="contribution snake" src="https://raw.githubusercontent.com/AdityaKumarr77/AdityaKumarr77/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
