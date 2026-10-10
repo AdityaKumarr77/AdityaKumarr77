@@ -133,13 +133,12 @@ I'm not chasing trends, I'm building capability: **structured problem-solving, c
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdityaKumarr77&theme=tokyo-night&hide_border=true&area=true&bg_color=00000000" width="100%"/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdityaKumarr77/AdityaKumarr77/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark">
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/AdityaKumarr77/AdityaKumarr77/output/github-contribution-grid-snake-dark.svg">
-</picture>
+
 
 </div>
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+</p> 
 
 ---
 
