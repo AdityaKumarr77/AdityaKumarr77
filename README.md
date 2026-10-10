@@ -12,7 +12,7 @@
 [![Unstop](https://img.shields.io/badge/Unstop-Profile-1C4980?style=for-the-badge&logo=googlechrome&logoColor=white)](https://unstop.com/u/technadi29148)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/devilbuoy757/)
 
-<img src="https://komarev.com/ghpvc/?username=AdityaKumarr77&label=PROFILE+VIEWS&color=00f7ff&style=for-the-badge" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=AdityaKumarr77&label=PROFILE+VIEWS&color=00f7ff&style=for-the-badge&base=20000" alt="profile views"/>
 
 </div>
 
