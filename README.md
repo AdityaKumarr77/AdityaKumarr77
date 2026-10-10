@@ -24,7 +24,7 @@
 <table>
 <tr>
 <td width="38%" align="center" valign="top">
-<img src="assets/portrait-code.png" alt="Aditya — rendered in code" width="100%"/>
+<img src=""C:\Users\ADMIN\OneDrive\Pictures\ADITYA Profilephoto.png"" alt="Aditya — rendered in code" width="100%"/>
 </td>
 <td valign="top">
 
