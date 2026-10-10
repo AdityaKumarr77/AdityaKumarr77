@@ -1,7 +1,6 @@
-
 <div align="center">
 
-<img src="assets/hero.png" alt="Aditya Kumar Jha — Full Stack Developer | AI Builder | DSA" width="100%"/>
+<img src="https://raw.githubusercontent.com/AdityaKumarr77/AdityaKumarr77/main/assets/hero.png" alt="Aditya Kumar Jha — Full Stack Developer | AI Builder | DSA" width="100%"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer+%7C+AI+Builder+%7C+DSA+Enthusiast;I+build+it.+I+optimize+it.+I+scale+it.;Open+to+Internships+%26+Opportunities+%F0%9F%9A%80" alt="Typing SVG"/>
 
@@ -24,7 +23,7 @@
 <table>
 <tr>
 <td width="38%" align="center" valign="top">
-<img src=""C:\Users\ADMIN\OneDrive\Pictures\ADITYA Profilephoto.png"" alt="Aditya — rendered in code" width="100%"/>
+<img src="https://raw.githubusercontent.com/AdityaKumarr77/AdityaKumarr77/main/assets/portrait-code.png" alt="Aditya — rendered in code" width="100%"/>
 </td>
 <td valign="top">
 
@@ -111,11 +110,21 @@ I'm not chasing trends, I'm building capability: **structured problem-solving, c
 
 </div>
 
-### 🧩 Problem Solving
+### 🧩 Problem Solving — Live LeetCode Dashboard
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/AdityaKumar77?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode stats" width="85%"/>
+<a href="https://leetcode.com/u/AdityaKumar77/">
+  <img src="https://raw.githubusercontent.com/AdityaKumarr77/AdityaKumarr77/main/assets/leetcode-stats.svg" alt="Live LeetCode dashboard — AdityaKumar77" width="100%"/>
+</a>
+
+<sub>⚡ Auto-refreshed every 6 hours straight from LeetCode by a GitHub Action.</sub>
+
+<br/><br/>
+
+<a href="https://leetcode.com/u/AdityaKumar77/">
+  <img src="https://leetcard.jacoblin.cool/AdityaKumar77?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode heatmap" width="85%"/>
+</a>
 
 </div>
 
@@ -145,6 +154,6 @@ I'm looking for **internships and entry-level roles** in **full-stack developmen
 
 <br/>
 
-<img src="assets/footer.png" alt="I don't follow trends. I engineer capability." width="100%"/>
+<img src="https://raw.githubusercontent.com/AdityaKumarr77/AdityaKumarr77/main/assets/footer.png" alt="I don't follow trends. I engineer capability." width="100%"/>
 
 </div>
