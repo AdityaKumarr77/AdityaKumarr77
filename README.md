@@ -193,7 +193,7 @@ Whether it is reducing P99 latency in a backend stream, designing reactive front
 
 ## 🤝 Let's Connect & Build
 
-I am actively looking for **Software Engineering Internships, Graduate Roles, and Full-Stack / AI opportunities.** If you are looking for an engineer with strong algorithmic rigor, high shipping velocity, and a passion for clean systems, let's talk!
+I am actively looking for **Software Engineering Internships, Graduate Roles, and Full-Stack / AI opportunities.** If you are looking for an engineer with strong algorithmic rigor, high shipping velocity, and a passion for clean systems, let's talk !
 
 <div align="center">
 
